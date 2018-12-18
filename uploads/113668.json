@@ -1,0 +1,1351 @@
+{
+    "reading":  {
+        "totaltime":"60",
+        "part1": {"paragraph": "<h2><b>The Phoenicians: an almost forgotten people</b></h2><p>The Phoenicians inhabited the region of modern Lebanon and Syria from about 3000 BC. They became the greatest traders of the pre-classical world, and were the first people to establish a large colonial network. Both of these activities were based on seafaring, an ability the Phoenicians developed from the example of their maritime predecessors, the Minoans of Crete.</p><p>An Egyptian narrative of about 1080 BC, the Story of Wen-Amen, provides an insight into the scale of their trading activity. One of the characters is Wereket-El, a Phoenician merchant living at Tan is in Egypt's Nile delta. As many as 50 ships carry out his business, plying back and forth between the Nile and the Phoenician port of Sidon.</p> <p> The most prosperous period for Phoenicia was the 10th century BC, when the surrounding region was stable. Hiram, the king of the Phoenician city of Tyre, was an ally and business partner of Solomon, King of Israel. For Solomon's temple in Jerusalem, Hiram provided craftsmen with particular skills that were needed for this major construction project. He also supplied materials - particularly timber, including cedar from the forests of Lebanon. And the two kings went into trade in partnership. They sent out Phoenician vessels on long expeditions (of up to three years for the return trip) to bring back gold, sandalwood, ivory, monkeys and peacocks from Ophir. This is an unidentified place, probably on the east coast of Africa or the west coast of India.</p> <p> Phoenicia was famous for its luxury goods. The cedar wood was not only exported as top-quality timber for architecture and shipbuilding. It was also carved by the Phoenicians, and the same skill was adapted to even more precious work in ivory. The rare and expensive dye for cloth, Tyrian purple, complemented another famous local product, fine linen. The metalworkers of the region, particularly those working in gold, were famous. Tyre and Sidon were also known for their glass. </p> <p> These were the main products which the Phoenicians exported. In addition, as traders and middlemen, they took a commission on a much greater range of precious goods that they transported from elsewhere. The extensive trade of Phoenicia required much book-keeping and correspondence, and it was in the field of writing that the Phoenicians made their most lasting contribution to world history. The scripts in use in the world up to the second millennium BC (in Egypt, Mesopotamia or China) all required the writer to learn a large number of separate characters - each of them expressing either a whole word or an element of its meaning. By contrast, the Phoenicians, in about 1500 BC, developed an entirely new approach to writing. The marks made (with a pointed tool called a stylus, on damp day) now attempted to capture the sound a word. This required an alphabet of individual letters. </p> <p> The trading and seafaring skills of the Phoenicians resulted in a network of colonies, spreading westwards through the Mediterranean. The first was probably Citium, in Cyprus, established in the 9th century BC. But the main expansion came from the 8th century BC onwards, when pressure from Assyria to the east disrupted the patterns of trade on the Phoenician coast.</p> <p> Trading colonies were developed on the string of islands in the centre of the Mediterranean - Crete, Sicily, Malta, Sardinia, Ibizia - and also on the coast of north Africa. The African colonies clustered in particular around the great promontory which, with Sicily opposite, forms the narrowest channel on the main Mediterranean Sea route. This is the site of Carthage.</p> <p> Carthage was the largest of the towns founded by the Phoenicians on the north African coast, and it rapidly assumed a leading position among the neighbouring colonies. The traditional date of its founding is 814 BC, but archaeological evidence suggests that It was probably settled a little over a century later. The subsequent spread and growth of Phoenician colonies in the western Mediterranean, and even out to the Atlantic coasts of Africa and Spain, was as much the achievement of Carthage as of the original Phoenician trading cities such as Tyre and Sidon. But no doubt links were maintained with the homeland, and new colonists continued to travel west.</p> <p> From the 8th century BC, many of the coastal cities of Phoenicia came under the control of a succession of imperial powers, each of them defeated and replaced in the region by the next: first the Assyrians, then the Babylonians, Persians and Macedonian Greeks.</p> <p> In 64 BC, the area of Phoenicia became part of the Roman province of Syria. The Phoenicians as an identifiable people then faded from history, merging into the populations of modem Lebanon and northern Syria </p>",
+                   "topInst" :  "<h5><b> READING PASSAGE 1<b></h5>  You should spend about 20 minutes on Questions 1 - 13, which are based on Reading Passage 1 below." ,
+                   "quetions":[
+                    {
+                        "name": "<p >Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 1- 8 on your answer sheet. </p>",
+                        "noblk": 0,
+                        "paragraph": "",
+                        "tableHeader" : "<b>The Phoenicians' trading activities  </b>" ,
+                        "tableBorder" : 0,
+                        "question_type_id": 3,
+                        "isImage":false,
+                        "category": "Math",
+                        "noteVal": "ss",
+                        "solutionVal": "",
+                        "status": 1001,
+                        "options": [
+                            {
+                                "name": " The Phoenicians' skill at  &nbsp<input placeholder='1' type='text' class='myalign num_1' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>    helped them to trade. <br/>  ",
+                                "user_ans":"",
+                                "isReview":false,
+                                "is_answer":[ "seafaring" ]
+                            },
+                            {
+                                "name": "   In an ancient story, a   &nbsp<input placeholder='2'  type='text' class='myalign num_2' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>  from Phoenicia, who lived in Egypt, owned 50 ships.<br/>",
+                                "user_ans":"" ,
+                                "isReview":false,
+                                "is_answer":["merchant"]
+                            },
+                            {
+                                "name": " A king of Israel built a   &nbsp<input placeholder='3' type='text' class='myalign num_3' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>    using supplies from Phoenicia. <br/> ",
+                                "user_ans":"",
+                                "isReview":false,
+                                "is_answer":["temple" ]
+                            },{
+                                "name": " Phoenicia supplied Solomon with skilled &nbsp<input placeholder='4' type='text' class='myalign num_4' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>    <br/>   ",
+                                "user_ans":"",
+                                "isReview":false,
+                                "is_answer":["craftsman" ]
+                            },
+                            {
+                                "name": "  The main material that Phoenicia sent to Israel was  &nbsp<input placeholder='5'  type='text' class='myalign num_5' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/><br/>   ",
+                                "user_ans":"",
+                                "isReview":false,
+                                "is_answer":["timber","wood","cedar"]
+                            },
+                            {
+                                "name": "The kings of Phoenicia and Israel formed a business   &nbsp<input placeholder='6' type='text' class='myalign num_6' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>     in order to carry out trade. ",
+                                "user_ans":"",
+                                "isReview":false,
+                                "is_answer":["partnership"]
+                            },
+                            {
+                                "name": " Phoenicians carved   &nbsp<input placeholder='7'  type='text' class='myalign num_7' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/> as well as cedar.<br/> ",
+                                "user_ans":"" ,
+                                "isReview":false,
+                                "is_answer":["ivory"]
+                            },
+                            {
+                                "name": " The Phoenicians also earned a 8   &nbsp<input placeholder='8' type='text' class='myalign num_8' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>  for shipping goods. ",
+                                "user_ans":"",
+                                "isReview":false,
+                                "is_answer":["commission"]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "<p class='num_9'><b>9)</b> Problems with Assyria led to the establishment of a number of Phoenician colonies.</p>",
+                        "noblk": 0,
+                        "paragraph": "<h3>Questions 9-13</h3> <h5>Do the following statements agree with the information given in Reading Passage 2? In the boxes 9-13 on your answer sheet, write</h5> <h6><b>TRUE</b> if the statement agrees with the information</h6> <h6><b>FALSE</b> if the statement contradicts the information</h6> <h6><b>NOT GIVEN</b> if there is no information on this</h6>",
+                        "question_type_id": 1,
+                        "isReview":false,
+                        "category": "Math",
+                        "noteVal": "ss",
+                        "solutionVal": "",
+                        "status": 1001,
+                        "is_answer": [true],
+                        "options": [
+                            {
+                                "name": "true",
+                                "user_ans":""
+                            },
+                            {
+                                "name": "false",
+                                "user_ans":""
+                            },
+                            {
+                                "name": "not given",
+                                "user_ans":""
+                            }
+                        ]
+                    }, {
+                        "name": "<p class='num_10'><b>10)</b>  Carthage was an enemy town which the Phoenicians won a battle.</p>",
+                        "noblk": 0,
+                        "paragraph": " ",
+                        "question_type_id": 1,
+                        "isReview":false,
+                        "category": "Math",
+                        "noteVal": "ss",
+                        "solutionVal": "",
+                        "status": 1001,
+                        "is_answer": [false],
+                        "options": [
+                            {
+                                "name": "true",
+                                "user_ans":""
+                            },
+                            {
+                                "name": "false",
+                                "user_ans":""
+                            },
+                            {
+                                "name": "not given",
+                                "user_ans":""
+                            }
+                        ]
+                    }, {
+                        "name": "<p class='num_11'><b>11)</b>  Phoenicians reached the Atlantic Ocean.</p>",
+                        "noblk": 0,
+                        "paragraph": " ",
+                        "question_type_id": 1,
+                        "isReview":false,
+                        "category": "Math",
+                        "noteVal": "ss",
+                        "solutionVal": "",
+                        "status": 1001,
+                        "is_answer": [true],
+                        "options": [
+                            {
+                                "name": "true",
+                                "user_ans":""
+                            },
+                            {
+                                "name": "false",
+                                "user_ans":""
+                            },
+                            {
+                                "name": "not given",
+                                "user_ans":""
+                            }
+                        ]
+                    }, {
+                        "name": "<p class='num_12'><b>12)</b>  Parts of Phoenician were conquered by a series of empires.</p>",
+                        "noblk": 0,
+                        "paragraph": " ",
+                        "question_type_id": 1,
+                        "isReview":false,
+                        "category": "Math",
+                        "noteVal": "ss",
+                        "solutionVal": "",
+                        "status": 1001,
+                        "is_answer": [true],
+                        "options": [
+                            {
+                                "name": "true",
+                                "user_ans":""
+                            },
+                            {
+                                "name": "false",
+                                "user_ans":""
+                            },
+                            {
+                                "name": "not given",
+                                "user_ans":""
+                            }
+                        ]
+                    }, {
+                        "name": "<p class='num_13'><b>13)</b> The Phoenician welcomed Roman control of the area.</p>",
+                        "noblk": 0,
+                        "paragraph": " ",
+                        "question_type_id": 1,
+                        "isReview":false,
+                        "category": "Math",
+                        "noteVal": "ss",
+                        "solutionVal": "",
+                        "status": 1001,
+                        "is_answer": ["not given"],
+                        "options": [
+                            {
+                                "name": "true",
+                                "user_ans":""
+                            },
+                            {
+                                "name": "false",
+                                "user_ans":""
+                            },
+                            {
+                                "name": "not given",
+                                "user_ans":""
+                            }
+                        ]
+                    }
+
+
+        ] },
+        "part2": { "paragraph": "",  
+        "topInst" :  "<h5><b>READING PASSAGE 2</b></h5>You should spend about 20 minutes on Questions 14 - 26, which are based on Reading Passage 2 below." ,
+        "quetions":[
+            {
+                "question_type_id": 5,
+                "boxname":"box1" ,
+                "rights": [{
+                  "id": "red1",
+                  "text": "i The power within each studio ",
+                  "actuall" : "i" 
+                }, {
+                  "id": "red2",
+                  "text": "ii The movie industry adapts to innovation",
+                  "actuall" : "ii" 
+                },{
+                 "id":"red3",
+                 "text":"iii Contrasts between cinema and other media of that time",
+                 "actuall" :"iii" 
+                }, {
+                 "id":"red4",
+                 "text": "iv The value of studying Hollywood's Golden Age",
+                 "actuall" :"iv" 
+                }, {
+                   "id":"red5",
+                   "text":"v Distinguishing themselves from rest of the market",
+                   "actuall" :"v" 
+                  }, {
+                   "id":"red6",
+                   "text":"vi A double attack on the film studios power",
+                   "actuall" :"vi" 
+                  }, {
+                   "id":"red7",
+                   "text":"vii Gaining control of the industry",
+                   "actuall" :"vii" 
+                  }, {
+                   "id":"red8",
+                   "text": "viii The top movies of Hollywoods Golden Age",
+                   "actuall" :"viii" 
+                  }],
+                "options":[
+                    {
+                      "id" : "input1",
+                      "paragraph" :"<b>14) A.</b> This chapter examines the 'Golden Age' of the Hollywood film studio system and explores how a particular kind of filmmaking developed during this period in US film history. It also focuses on the two key elements which influenced the emergence of the classic Hollywood studio system: the advent of sound and the business ideal of vertical integration. In addition to its historical interest, inspecting the growth of the studio system may offer clues regarding the kinds of struggles that accompany the growth of any new medium. It might, in fact, be intriguing to examine which changes occurred during the growth of the Hollywood studio, and compare those changes to contemporary struggles in which production companies are trying to define and control emerging industries, such as online film and interactive television.",
+                      "input1" :[],
+                      "topIns" :"<h2> The Hollywood Film Industry A </h2> " ,
+                      "isReview":false,
+                      "is_answer": ["iv"]
+                    },
+                    {
+                      "id" : "input2",
+                      "paragraph" :" <b>15) B.</b>The shift of the industry away from 'silent’ films began during the late 1920s. Warner Bros.' 1927 film The Jazz Singer was the first to feature synchronized speech, and with it came a period of turmoil for the industry. Studios now had proof that 'talkie' films would make them money, but the financial investment this kind of filmmaking would require, from new camera equipment to new projection facilities, made the studios hesitant to invest at first. In the end, the power of cinematic sound to both move audiences and enhance the story persuaded studios that talkies were worth investing in. Overall, the use of sound in film was well-received by audiences, but there were still many technical factors to consider. Although, full integration of sound into movies was complete by 1930, it would take somewhat longer for them to regain their stylistic elegance and dexterity. The camera now had to be encased in a big, clumsy, unmovable soundproof box. In addition, actors struggled, having to direct their speech to awkwardly-hidden microphones in huge plants, telephones or even costumes.",
+                      "topIns" :"" ,
+                      "input2" :[],
+                     "isReview":false,
+                     "is_answer": ["ii"]
+                    },
+                    {
+                      "id" : "input3",
+                      "paragraph" :" <b>16) C.</b> Vertical integration is the other key component in the rise of the Hollywood studio system. The major studios realized they could increase their profits by handling each stage of a film's life: production (making the film), distribution (getting the film out to people) and exhibition (owning the theaters in major cities where films were shown first). Five studios, ‘The Big Five', worked to achieve vertical integration through the late 1940s, owning vast real estate on which to construct elaborate sets. In addition, these studios set the exact terms of films release dates and patterns. Warner Bros., Paramount, 20th Century Fox, MGM and RKO formed this exclusive club. ‘The Little Three' studios - Universal Columbia and United Artists - also made pictures, but each lacked one of the crucial elements of vertical integration. Together, these eight companies operated as a mature oligopoly, essentially running the entire market. ",
+                      "topIns" :"" ,
+                      "input3" :[],
+                     "isReview":false,
+                     "is_answer": ["vii"]
+                    },
+                    {
+                      "id" : "input4",
+                      "paragraph" :" <b>17) D.</b> During the Golden Age, the studios were remarkably consistent and stable enterprises, due in large part to long-term management heads - the infamous ‘movie moguls’ who ruled their kingdoms with iron fists. At MGM, Warner Bros and Columbia, the same men ran their studios for decades. The rise of the studio system also hinges on the treatment of stars, who were constructed and exploited to suit a studio’s image and schedule. Actors were bound up in seven-year contracts to a single studio, and the studio boss generally held all the options. Stars could he loaned out to other production companies at any time. Studio bosses could also force bad rules on actors, and manipulate every single detail of stars’ images with their mammoth in-house publicity departments. Some have compared the Hollywood studio system to a factory, and it is useful to remember that studios were out to make money first and art second. ",
+                      "topIns" :"" ,
+                      "input4" :[],
+                     "isReview":false,
+                     "is_answer": ["i"]
+                    },
+                    {
+                      "id" : "input5",
+                      "paragraph" :" <b>18) E.</b>On the other hand, studios also had to cultivate flexibility, in addition to consistent factory output. Studio heads realized that they couldn’t make virtually the same film over and over again with the same cast of stars and still expect to keep turning a profit. They also had to create profit differentiation. Examining how each production company tried to differentiate itself has led to loose characterizations of individual studios styles. MGM tended to put out a lot of all-star productions while Paramount excelled in comedy and Warner Bros. developed a reputation for gritty social realism. 20th Century Fox forged the musical and a great deal of prestige biographies, while Universal specialized in classic horror movies. ",
+                      "topIns" :"" ,
+                      "input5" :[],
+                     "isReview":false,
+                     "is_answer": ["v"]
+                    },
+                    {
+                      "id" : "input6",
+                      "paragraph" :"  <b>19) F.</b> In 1948, struggling independent movie producers and exhibitors finally triumphed in their battle against the big studios’ monopolistic behavior. In the United States versus Paramount federal decree of that year, the studios were ordered to give up their theaters in what, is commonly referred to as ‘divestiture’ – opening the market, to smaller producers. This, coupled with the advent of television in the 1950s, seriously compromised the studio system’s influence and profits. Hence, 1930 and 1948 are generally considered bookends to Hollywood’s Golden Age ",
+                      "topIns" :"" ,
+                      "input6" :[],
+                     "isReview":false,
+                     "is_answer": ["vi"]
+                    }
+                ]
+              },
+   
+            {
+                "name": "<b>20)</b> After the Jazz Singer came out, other studios immediately began making movies with syncronised  sound.",
+                "noblk": 0,
+                "paragraph": "<h3>Questions 20-23</h3> <h5>Do the following statements agree with the information given in Reading Passage 2? In the boxes 20-23 on your answer sheet, write</h5> <h6><b>TRUE</b> if the statement agrees with the information</h6> <h6><b>FALSE</b> if the statement contradicts the information</h6> <h6><b>NOT GIVEN</b> if there is no information on this</h6>",
+                "question_type_id": 1,
+                "isReview":false,
+                "category": "Math",
+                "noteVal": "ss",
+                "solutionVal": "",
+                "status": 1001,
+                "is_answer": [false],
+                "options": [
+                    {
+                        "name": "true",
+                        "user_ans":""
+                    },
+                    {
+                        "name": "false",
+                        "user_ans":""
+                    },
+                    {
+                        "name": "not given",
+                        "user_ans":""
+                    }
+                ]
+            },
+            {
+                "name": "<b>21) </b>There were some drawbacks to recording movie actors’ voices in the early 1930s",
+                "noblk": 0,
+                "paragraph": "",
+                "question_type_id": 1,
+                 "isReview":false,
+                 "is_answer": [true],
+                "category": "Math",
+                "noteVal": "ss",
+                "solutionVal": "",
+                "status": 1001,
+                "options": [
+                    {
+                        "name": "true",
+                        "user_ans":""
+                    },
+                    {
+                        "name": "false",
+                        "user_ans":""
+                    },
+                    {
+                        "name": "not given",
+                        "user_ans":""
+                    }
+                ]
+            },
+            {
+                "name": "<b>22)</b>There was intense competition between actors for contracts with the leading studios.",
+                "noblk": 0,
+                "paragraph": "",
+                "question_type_id": 1,
+                "is_answer": ["not given"],
+                
+                 "isReview":false,
+                "category": "Math",
+                "noteVal": "ss",
+                "solutionVal": "",
+                "status": 1001,
+                "options": [
+                    {
+                        "name": "true",
+                        "is_answer": true,
+                        "user_ans":""
+                    },
+                    {
+                        "name": "false",
+                        "is_answer": false,
+                        "user_ans":""
+                    },
+                    {
+                        "name": "not given",
+                        "is_answer": false,
+                        "user_ans":""
+                    }
+                ]
+            },
+            {
+                "name": "<b>23) </b>Studios had total control over how their actors were perceived by the public.",
+                "noblk": 0,
+                "paragraph": "",
+                "question_type_id": 1,
+                 "isReview":false,
+                 "is_answer": [true],
+                "category": "Math",
+                "noteVal": "ss",
+                "solutionVal": "",
+                "status": 1001,
+                "options": [
+                    {
+                        "name": "true",
+                        "is_answer": true,
+                        "user_ans":""
+                    },
+                    {
+                        "name": "false",
+                        "is_answer": false,
+                        "user_ans":""
+                    },
+                    {
+                        "name": "not given",
+                        "is_answer": false,
+                        "user_ans":""
+                    }
+                ]
+            } ,
+            {
+                "name": "<h5><b>Questions 24-26 Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 24-26 on your answer sheet </b></h5>",
+                "noblk": 0,
+                "paragraph": "",
+                "tableHeader" : "<b>THE HOLLYWOOD STUDIOS</b>" ,
+                "tableBorder" : 1,
+                "question_type_id": 3,
+                 "isImage":false,
+                "category": "Math",
+                "noteVal": "ss",
+                "solutionVal": "",
+                "status": 1001,
+                "options": [
+                    {
+                        "name": "  Throughout its Golden Age, the Hollywood movie industry was controlled by a handful of studios. Using a system known as  &nbsp<input placeholder='24' type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>    the biggest studios not only made movies, but handled their distribution and then finally showed them in their own theaters.  ",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer": ["Vertical integration"]
+                    },
+                    {
+                        "name": "the biggest studios not only made movies, but handled their distribution and then finally showed them in their own theaters. These studios were often run by autocratic bosses - men known as  &nbsp<input placeholder='25'  type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>    , who often remained at the end of organisations for decades. ",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer": ["movie moguls"]
+                    },
+                    {
+                        "name": " However, the domination of the industry by the leading studios came to an end in 1948, when they were forced to open the market to smaller producers - a process known as  &nbsp<input placeholder='26' type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>    ",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer":[ "Divestiture" ]
+                    }
+                ]
+            }
+           
+        ]},
+        "part3":{ "paragraph": "<h2>Left or Right</h2><small>An overview of some research into lateralisation: the dominance of one side of the body over the other</small> <p><b>A.</b> Creatures across the animal kingdom have a preference for one foot, eye or even antenna. The cause of this trait, called lateralisation, is fairly simple: one side of the brain, which generally controls the opposite side of the body, is more dominant than the other when processing certain tasks. This does, on some occasions, let the animal down: such as when a toad fails to escape from a snake approaching from the right, just because its right eye is worse at spotting danger than its left. So why would animals evolve a characteristic that seems to endanger them?</p> <p><b>B.</b> For many years it was assumed that lateralisation was a uniquely human trait, but this notion rapidly fell apart as researchers started uncovering evidence of lateralisation in all sorts of animals. For example, in the 1970s, Lesley Rogers, now at the University of New England in Australia, was studying memory and learning in chicks. She had been injecting a chemical into chicks’ brains to stop them learning how to spot grains of food among distracting pebbles, and was surprised to observe that the chemical only worked when applied to the left hemisphere of the brain. That strongly suggested that the right side of the chick's brain played little or no role in the learning of such behaviours. Similar evidence appeared in songbirds and rats around the same time, and since then, researchers have built up an impressive catalogue of animal lateralisation.</p> <p><b>C.</b> In some animals, lateralisation is simply a preference for a single paw or foot, while in others it appears in more general patterns of behaviour. The left side of most vertebrate brains, for example,seems to process and control feeding. Since the left hemisphere processes input from the right side of the body, that means animals as diverse as fish, toads and birds are more likely to attack prey or food items viewed with their right eye. Even humpback whales prefer to use the right side of their jaws to scrape sand eels from the ocean floor.</p> <p><b>D.</b> Genetics plays a part in determining lateralisation, but environmental factors have an impact too. Rogers found that a chicks lateralisation depends on whether it is exposed to light before hatching from its egg - if it is kept in the dark during this period, neither hemisphere becomes dominant. In 2004, Rogers used this observation to test the advantages of brain bias in chicks faced with the challenge of multitasking. She hatched chicks with either strong or weak lateralisation, then presented the two groups with food hidden among small pebbles and the threatening shape of a fake predator flying overhead. As predicted, the birds incubated in the light looked for food mainly with their right eye, while using the other to checkout the predator. The weakly-lateralised chicks, meanwhile, had difficulty performing these two activities simultaneously.</p> <p><b>E. </b> Similar results probably hold true for many other animals. In 2006, Angelo Bisazza at the University of Padua set out to observe the differences in feeding behaviour between strongly-lateralised and weakly-lateralised fish. He found that strongly-lateralised individuals were able to feed twice as fast as weakly-lateralised ones when there was a threat of a predator looming above them. Assigning different jobs to different brain halves may be especially advantageous for animals such as birds or fish, whose eyes are placed on the sides of their heads. This enables them to process input from each side separately, with different tasks in mind.</p> <p><b>F</b> And what of those animals who favour a specific side tor almost all tasks? In 2009, Maria Magat and Culum Brown at Macquarie University in Australia wanted to see if there was general cognitive advantage in lateralisation. To investigate, they turned to parrots, which can be either strongly right- or left-footed, or ambidextrous (without dominance). The parrots were given the intellectually demanding task of pulling a snack on a string up to their beaks, using a co-ordinated combination of claws and beak. The results showed that the parrots with the strongest foot preferences worked out the puzzle tar more quickly than their ambidextrous peers.</p> <p><b>G.</b> A further puzzle is why are there always a few exceptions, like left-handed humans, who are wired differently from the majority of the population? Giorgio Vallortigara and Stefano Ghirianda of Stockholm University seem to have found the answer via mathematical models. These have shown that a group of fish is likely to survive a shark attack with the fewest casualties if the majority turn together in one direction while a very small proportion of the group escape in the direction that the predator is not expecting.</p> <p><b>H. </b>This imbalance of lateralisation within populations may also have advantages for individuals. Whereas most co-operative interactions require participants to react similarly, there are some situations - such as aggressive interactions - where it can benefit an individual to launch an attack from an unexpected quarter. Perhaps this can partly explain the existence of left-handers in human societies. It has been suggested that when it comes to hand-to-hand fighting, left-handers may have the advantage over the right-handed majority. Where survival depends on the element ot surprise, it may indeed pay to be different. </p>",  
+        "topInst" :  "<h5><b>READING PASSAGE 3</b></h5>You should spend about 20 minutes on Questions 27 - 40, which are based on Reading Passage 3 below." ,
+        "quetions":[
+          
+            {
+                "name": "<h5><b>Questions 27-30 Complete each statement with the correct ending, A -F, below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 24-26 on your answer sheet </b></h5>",
+                "noblk": 0,
+                "paragraph": "",
+                "tableHeader" : "" ,
+                "tableFooter" : "<p><b>A:&nbsp; </b> laterisation is more common in some species than in others<br/> <b>B:&nbsp;</b> it benefits a population if some members have a different laterisation than the majority. <br/><b>C:&nbsp;</b> laterisation helps animals do two things at the same time. <br/><b> D:&nbsp;</b> laterisation is not confined to human beings. <br/><b>E:&nbsp;</b> the greater an animal’s laterisation, the better it is at problem – solving.<br/> <b>F:&nbsp;</b>strong laterisation may sometimes put groups of animals in danger<p>" ,
+                "tableBorder" : 1,
+                "question_type_id": 3,
+                 "isImage":false,
+                "category": "Math",
+                "noteVal": "ss",
+                "solutionVal": "",
+                "status": 1001,
+                "options": [
+                    {
+                        "name": "  In the 1970s, Lesley Rogers discovered that  &nbsp<input placeholder='27' type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$index)'/> <br/>",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer": ["D","d"]
+                    },
+                    {
+                        "name": "Angelo Bisazza’s experiments revealed that &nbsp<input placeholder='28'  type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$index)'/>   <br/> ",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer": ["c","C"]
+                    },
+                    {
+                        "name": " Magat and Brown’s studies show that &nbsp<input placeholder='29' type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$index)'/>   <br/> ",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer":[ "E","e"]
+                    },
+                    {
+                        "name": "  Vallortigara and Ghirlanda’s research findings suggest that &nbsp<input placeholder='30' type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$index)'/>    ",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer":[ "B","b" ]
+                    }
+                   
+                ]
+            },
+            {
+                "name": "<h5><b> Questions 31 - 35 </b></h5>",
+                "noblk": 0,
+                "paragraph": "",
+                "tableHeader" : "<b>Lesley Rogers' 2004 Experiment</b>" ,
+                "tableFooter" : "" ,
+                "tableBorder" : 1,
+                "question_type_id": 3,
+                 "isImage":false,
+                "category": "Math",
+                "noteVal": "ss",
+                "solutionVal": "",
+                "status": 1001,
+                "options": [
+                    {
+                        "name": " Laterisation is determined by both genetic and &nbsp<input placeholder='31' type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>  influences. ",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer": [ "environmental"]
+                    },
+                    {
+                        "name": " Rogers found that chicks whose eggs are given  &nbsp<input placeholder='32'  type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>   during the incubation period tend to have a stronger laterisation. ",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer": ["light"]
+                    },
+                    {
+                        "name": " Her 2004 experiment set out to prove that these chicks were better at &nbsp<input placeholder='33' type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>   than weakly laterised chicks.  ",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer":[ "multi tasking"]
+                    },
+                    {
+                        "name": "  As expected, the strongly laterised birds in the experiment were more able to locate &nbsp<input placeholder='34' type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>   ",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer":[ "food" ]
+                    },
+                    {
+                        "name": "  using their right eye, while using their left eye to monitor an imitation &nbsp<input placeholder='35' type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>   above them. ",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer":[ "Predator" ]
+                    }
+                   
+                ]
+            },
+            {
+                "name": "<h5><b>Questions 36-40 Reading passage 3 has eight paragraphs, A-H Which paragraph contains the following information? Write the correct letter, A-H, in boxes 36-40 on your answer sheet.</b></h5>",
+                "noblk": 0,
+                "paragraph": "",
+                "tableHeader" : "NB You may use any letter more than once. " ,
+                "tableFooter" : "" ,
+                "tableBorder" : 0,
+                "question_type_id": 3,
+                 "isImage":false,
+                "category": "Math",
+                "noteVal": "ss",
+                "solutionVal": "",
+                "status": 1001,
+                "options": [
+                    {
+                        "name": " description of a study which supports another scientist's findings. &nbsp<input placeholder='36' type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/> <br/>",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer": [ "E"]
+                    },
+                    {
+                        "name": " the suggestion that a person could gain from having an opposing lateralisation to most of the population &nbsp<input placeholder='37'  type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>  <br/> ",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer": ["H"]
+                    },
+                    {
+                        "name": "  reference to the large amount of knowledge of animal lateralisation that has accumulated &nbsp<input placeholder='38' type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/> <br/>    ",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer":[ "B" ]
+                    },
+                    {
+                        "name": " research findings that were among the first to contradict a previous belief &nbsp<input placeholder='39' type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>  <br/> ",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer":[ "B" ]
+                    },
+                    {
+                        "name": "  a suggestion that lateralisation would seem to disadvantage animals. &nbsp<input placeholder='40' type='text' class='myalign' ng-model='options.user_ans' ng-click='typeReviewRemainder(3,$parent.$parent.$index,$parent.$index)'/>    ",
+                        "user_ans":"" ,
+                        "isReview":false,
+                        "is_answer":[ "A" ]
+                    }
+                   
+                ]
+            }
+            
+           
+        ]}
+    },
+    "listening":  {
+        "audiopath":"/uploads/1537965248.mp3",
+        "totaltime": "60",
+        "part1": {
+            "paragraph": "",
+            "title":"<p>SECTION - 1</p>",
+            "topInst": "<i><b>Questions 1 - 10</b> </i>",
+            "maintitle":"<p>Activities programme involving volunteers</p>",
+            "quetions": [
+                {
+                    "name": "7.Do the following statements agree with the information given in Reading Passage 1 ? In boxes 7-13 on your answer sheet, write",
+                    "noblk": 0,
+                    "paragraph": "what is api",
+                    "head":"<p>Monday evenings: computer training </p>",
+                    "question_type_id": 2,
+                    "category": "Math",
+                    "istable":false,
+                    "solutionVal": "",
+                    "status": 1001,
+                    "options": [
+                        {
+                            "iscircle":true,
+                            "name": "<p>Training needed in how to produce&nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='1' type='text' id='text_1' name='text1'> .</p>",
+                            "is_answer": [
+                                "simple",
+                                "documents"
+                            ],
+                            "isReview": false,
+                            "user_ans": ""
+                        }
+                        
+                    ]
+                },
+                {
+                    "name": "2",
+                    "noblk": 0,
+                    "paragraph": "what is api",
+                    "head":"<p>Tuesday afternoons: singing </p>",
+                    "question_type_id": 2,
+                    "category": "Math",
+                    "istable":false,
+                    "solutionVal": "",
+                    "status": 1001,
+                    "options": [
+                        {
+                            "iscircle":true,
+                            "head":"<p>Tuesday afternoons: singing </p>",
+                            "name": "<p>Training needed in how to produce&nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='2' type='text' id='text_1' name='text1'> .</p>",
+                            "is_answer": [
+                                "Keyboard"
+                            ],
+                            "isReview": false,
+                            "user_ans": ""
+                        }
+                        
+                    ]
+                },
+                {
+                    "name": "3",
+                    "noblk": 0,
+                    "paragraph": "",
+                    "question_type_id": 2,
+                    "head":"",
+                    "istable":false,
+                    "category": "Math",
+                    "solutionVal": "",
+                    "status": 1001,
+                    "options": [
+                        {
+                            "iscircle":false,
+                            "name": "<p>Thursday mornings: growing&nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='3' type='text' id='text_3' name='text3'>  .</p>",
+                            "is_answer": [
+                                "Flowers"
+                            ],
+                            "isReview": false,
+                            "user_ans": ""
+                        },
+                        {
+                            "iscircle":true,
+                            "name": "<p>The home doesn't have many &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='4' type='text' id='text_4' name='text4'>  for gardening .</p>",
+                            "is_answer": ["Tools"],
+                            "isReview": false,
+                            "user_ans": ""
+                        }
+                        
+                    ]
+                },
+                {
+                    "name": "5.Do the following statements agree with the information given in Reading Passage 1 ? In boxes 7-13 on your answer sheet, write",
+                    "noblk": 0,
+                    "paragraph": "what is api",
+                    "question_type_id": 2,
+                    "head":"<p>Once a month: meeting for volunteers and staff </p>",
+                    "category": "Math",
+                    "istable":false,
+                    "solutionVal": "",
+                    "status": 1001,
+                    "options": [
+                        
+                        {
+                            "iscircle":true,
+                            "head":"<p>Once a month: meeting for volunteers and staff </p>",
+                            "subhead":"<p>Interview </p>",
+                            "name": "<p> Go in on  &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='5' type='text' id='text_5' name='text5'>  any time  .</p>",
+                            "is_answer": ["Saturday"],
+                            "isReview": false,
+                            "user_ans": ""
+                        },
+                        {
+                            "iscircle":true,
+                            "name": "<p>Interview with assistant called &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='6' type='text' id='text_6' name='text6'> .</p>",
+                            "is_answer": [
+                                "Mairead"
+                            ],
+                            "isReview": false,
+                            "user_ans": ""
+                        },
+                        {
+                            "iscircle":true,
+                            "name": "<p>Address of home: 73  &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='7' type='text' id='text_7' name='text7'> .</p>",
+                            "is_answer": [
+                                "Bridge"
+                            ],
+                            "isReview": false,
+                            "user_ans": ""
+                        }
+                        
+                    ]
+                },
+                {
+                    "name": "6.Do the following statements agree with the information given in Reading Passage 1 ? In boxes 7-13 on your answer sheet, write",
+                    "noblk": 0,
+                    "paragraph": "what is api",
+                    "question_type_id": 2,
+                    "istable":false,
+                    "head":"<p>'Open house' days  </p>",
+                    "category": "Math",
+                    "solutionVal": "",
+                    "status": 1001,
+                    "options": [
+                        
+                        {
+                            "iscircle":true,
+                            "name": "<p>  Agreed to help on   &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='8' type='text' id='text_8' name='text8'>  any time  .</p>",
+                            "is_answer": [
+                                "14th of May ",
+                                "fourteenth of May"
+                            ],
+                            "isReview": false,
+                            "user_ans": ""
+                        },
+                        {
+                            "iscircle":true,
+                            "name": "<p>Interview with assistant called &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='9' type='text' id='text_9' name='text9'> .</p>",
+                            "is_answer": [
+                                "Park"
+                            ],
+                            "isReview": false,
+                            "user_ans": ""
+                        },
+                        {
+                            "iscircle":true,
+                            "name": "<p>Address of home: 73  &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='10' type='text' id='text_10' name='text10'> .</p>",
+                            "is_answer": [
+                                "Newspaper"
+                            ],
+                            "isReview": false,
+                            "user_ans": ""
+                        }
+                        
+                    ]
+                }
+            ]
+        },
+        "part2": {
+          "paragraph": "",
+          "title":"<p>SECTION - 2</p>",
+          "topInst": "<i><b>Questions 11 - 15</b></i>",
+          
+          "maintitle":"",
+            "quetions": [
+              {
+                "question_type_id": 5,
+                "isiamge": true,
+                "imgpath": "/uploads/1542792217.jpg",
+                "title1":"<i><b>Label the plan below. Write the correct letter, A – H, next to Questions 11 – 15</b></i>",
+                "boxname": "box1",
+                "rights": [
+                  {
+                    "id": "red1",
+                    "text": "A",
+                    "actuall":"A",
+                    "content1":false
+                    
+                  },
+                  {
+                    "id": "red2",
+                    "text": "B",
+                    "actuall":"B",
+                    "content1":false
+                  },
+                  {
+                    "id": "red3",
+                    "text": "C",
+                    "actuall":"C",
+                    "content1":false
+                  },
+                  {
+                    "id": "red4",
+                    "text": "D",
+                    "actuall":"D",
+                    "content1":false
+                  },
+                  {
+                    "id": "red5",
+                    "text": "E",
+                    "actuall":"E",
+                    "content1":false
+                  },
+                  {
+                    "id": "red6",
+                    "text": "F",
+                    "actuall":"F",
+
+                    "content1":false
+                  },
+                    {
+                    "id": "red7",
+                    "text": "G",
+                    "actuall":"G",
+
+                    "content1":false
+                  },
+                   {
+                    "id": "red8",
+                    "text": "H",
+                    "actuall":"H",
+
+                    "content1":false
+                  }
+                ],
+                "options": [
+                  {
+                    "id": "input11",
+                    "paragraph": "11 Newspapers",
+                    "input11": [
+                      
+                    ],
+                    "isReview": false,
+                    "is_answer": ["C","c"]
+                  },
+                  {
+                    "id": "input12",
+                    "paragraph": "12 Computers",
+                    "input12": [
+                      
+                    ],
+                    "isReview": false,
+                    "is_answer": ["B","b"]
+                  },
+                  {
+                    "id": "input13",
+                    "paragraph": "13 Photocopier",
+                    "input13": [
+                      
+                    ],
+                    "isReview": false,
+                    "is_answer": ["A","a"]
+                  },
+                  {
+                    "id": "input14",
+                    "paragraph": "14 Cafe",
+                    "input14": [
+                      
+                    ],
+                    "isReview": false,
+                    "is_answer": ["H","h"]
+                  },
+                  {
+                    "id": "input15",
+                    "paragraph": "15 Sports Books",
+                    "input15": [
+                      
+                    ],
+                    "isReview": false,
+                    "is_answer": ["G","g"]
+                  }
+
+                ]
+              },
+              {
+                "name": "<p><b>Questions 16 - 20</b></p>",
+                "title1":"<p>Complete the table below.</p>",
+                "title2":"<p>Write ONE WORD ONLY for each answer.</p>",
+                "question_type_id": 2,
+                "head":"<p>Complete the table below. </p>",
+                "category": "Math",
+                "istable":true,
+                "td1":"Name",
+                "td2":"New responsibility",
+                "solutionVal": "",
+                "status": 1001,
+                "options": [
+                    
+                  
+                    {
+                      "title":"<p>Jenny Reed</p>",
+                      "name": "<p>Buying  &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='16' type='text' id='text_16' name='text16'> for the Centre.</p>",
+                      "is_answer": [
+                          "Films"
+                      ],
+                      "isReview": false,
+                      "user_ans": ""
+                    },
+                    {
+                      "title":"<p>Phil Penshurst</p>",
+                      "name": "<p>Help with writing &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='17' type='text' id='text_17' name='text17'> for courses.</p>",
+                      "is_answer": [
+                          "Reports"
+                      ],
+                      "isReview": false,
+                      "user_ans": ""
+                    },
+                    {
+                      "title":"<p>Tom Salisbury</p>",
+                      "name": "<p>Information on topics related to the &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='18' type='text' id='text_18' name='text18'> .</p>",
+                      "is_answer": [
+                          "Region"
+                      ],
+                      "isReview": false,
+                      "user_ans": ""
+                    },
+                    {
+                      "title":"<p>Saeed Aktar</p>",
+                      "name": "<p>Finding a &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='19' type='text' id='text_19' name='text19'> .</p>",
+                      "is_answer": [
+                          "Job"
+                      ],
+                      "isReview": false,
+                      "user_ans": ""
+                    },
+                    {
+                      "title":"<p>Shilpa Desai</p>",
+                      "name": "<p>Help with  &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='20' type='text' id='text_20' name='text20'> .</p>",
+                      "is_answer": [
+                          "Housing"
+                      ],
+                      "isReview": false,
+                      "user_ans": ""
+                    }
+                ]
+             }
+            ]
+          },
+        "part3":{
+
+          "paragraph": "",
+          "title":"<p>SECTION - 3</p>",
+          "topInst": "<i><b>Questions 21 - 30</b></i>",
+          
+          "instructions":"",
+          "maintitle":"",
+            "quetions": [
+              {
+                "question_type_id": 5,
+                "isiamge": false,
+                "imgpath": "/uploads/1522859539.jpg",
+                "boxname": "box2",
+                "title1":"<p><b>What helped Stewart with each of the following stages in making his training film for museum employees?</b></p>",
+                 "title2":"<p><b>Choose <b>SEVEN</b> answers from the box and write the correct letter, <b>A - I</b>, next to Questions 21-27.</b></p>",
+                "rights": [
+                  {
+                    "id": "red21",
+                    "text": "A",
+                    "actuall":"A",
+                    "content1":true,
+                    "content":"A.advice from friends"
+                  },
+                  {
+                    "id": "red22",
+                    "text": "B",
+                    "actuall":"B",
+                    "content1":true,
+                    "content":"B.information on a website"
+                  },
+                  {
+                    "id": "red23",
+                    "text": "C ",
+                    "actuall":"C",
+                    "content1":true,
+                    "content":"C.being allowed extra time "
+                  },
+                  {
+                    "id": "red24",
+                    "text": "D",
+                    "actuall":"D",
+                    "content1":true,
+                    "content":"D.meeting a professional film maker"
+                  },
+                  {
+                    "id": "red25",
+                    "text": "E",
+                    "actuall":"E",
+                    "content1":true,
+                    "content":"E.good weather conditions"
+                  },
+                  {
+                    "id": "red26",
+                    "text": "F",
+                    "actuall":"F",
+                    "content1":true,
+                    "content":"F.getting a better computer "
+                  },
+                  {
+                    "id": "red27",
+                    "text": "G",
+                    "actuall":"G",
+                    "content1":true,
+                    "content":"G.support of a manager"
+                  },
+                  {
+                    "id": "red28",
+                    "text": "H",
+                    "actuall":"H",
+                    "content1":true,
+                    "content":"H.help from a family member"
+                  },
+                  {
+                    "id": "red29",
+                    "text": "I",
+                    "actuall":"I",
+                    "content1":true,
+                    "content":"I.work on a previous assignments"
+                  }
+                ],
+                "options": [
+                  {
+                    "id": "input21",
+                    "paragraph": "21 finding a location",
+                    "input21": [
+                      
+                    ],
+                    "isReview": false,
+                    "is_answer": ["E","e"]
+                  },
+                  {
+                    "id": "input22",
+                    "paragraph": "22 deciding on equipment ",
+                    "input22": [
+                      
+                    ],
+                    "isReview": false,
+                    "is_answer": ["I","i"]
+                  },
+                  {
+                    "id": "input23",
+                    "paragraph": "23 writing the script",
+                    "input23": [
+                      
+                    ],
+                    "isReview": false,
+                    "is_answer": ["C","c"]
+                  },
+                  {
+                    "id": "input24",
+                    "paragraph": "24 casting",
+                    "input24": [
+                      
+                    ],
+                    "isReview": false,
+                    "is_answer": ["G","g"]
+                  },
+                  {
+                    "id": "input25",
+                    "paragraph": "25 filming",
+                    "input25": [
+                      
+                    ],
+                    "isReview": false,
+                    "is_answer": ["B","b"]
+                  },
+                  {
+                    "id": "input26",
+                    "paragraph": "26 editing",
+                    "input26": [
+                      
+                    ],
+                    "isReview": false,
+                    "is_answer": ["D","d"]
+                    
+                  },
+                  {
+                    "id": "input27",
+                    "paragraph": "27 designing the DVD cover",
+                    "input27": [
+                      
+                    ],
+                    "isReview": false,
+                    "is_answer": ["A","a"]
+                  }
+
+                ]
+              },
+              {
+                "name": "<p><b>Stewart's work placement: benefits to the Central Museum Association</b></p>",
+                "title":"<p><b>Questions 27 - 30</b></p>",
+                "title1":"<p>Complete the notes below.</p>",
+                "title2":"<p>Write ONE<i>WORD ONLY</i>  for each answer.</p>",
+                "question_type_id": 2,
+                "istable":false,
+                "td1":"Name",
+                "td2":"New responsibility",
+                "solutionVal": "",
+                "status": 1001,
+                "options": [
+                    
+                  
+                    {
+                      "iscircle":true,
+                      "name": "<p>his understanding of the Association's  &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='28' type='text' id='text_28' name='text27'><span><i class='fa fa-circle' aria-hidden='true'></i>&nbsp;the reduction in expense</span></p>",
+                  
+                      "is_answer": [
+                          "Aims ",
+                          "objectives ",
+                          "goals"
+                      ],
+                      "isReview": false,
+                      "user_ans": ""
+                    },
+                    {
+                      "iscircle":true,
+                      "name": "<p>increased co-operation between &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='29' type='text' id='text_28' name='text29'><br> </p>",
+                      "is_answer": [
+                          "Staff"
+                      ],
+                      "isReview": false,
+                      "user_ans": ""
+                    },
+                    {
+                      "iscircle":true,
+                      "name": "<p> continuous &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='30' type='text' id='text_30' name='text30'></p>",
+                      "is_answer": [
+                          "Feedback"
+                      ],
+                      "isReview": false,
+                      "user_ans": ""
+                    }
+                ]
+             }
+            ]
+        },
+        "part4":{
+          "paragraph": "",
+          "title":"<p>SECTION - 4</p>",
+          "topInst": "<i><b>Questions 31 - 40</b> </i>",
+          "maintitle":"<p>New Caledonian crows and the use of tools</p>",
+          "quetions": [
+              {
+                  "name": "",
+                  "noblk": 0,
+                  "paragraph": "what is api",
+                  "head":"<p><b>Examples of animals using tools </b></p>",
+                  "question_type_id": 2,
+                  "category": "Math",
+                  "istable":false,
+                  "solutionVal": "",
+                  "status": 1001,
+                  "options": [
+                      {
+                          "iscircle":true,
+                          "name": "<p>Betty New Caledonian crow  made a&nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='31' type='text' id='text_31' name='text31'> .</span></p>",
+                          "is_answer": [
+                              "Hook"
+                          ],
+                          "isReview": false,
+                          "user_ans": ""
+                      }
+                      
+                  ]
+              },
+              {
+                  "name": "5.Do the following statements agree with the information given in Reading Passage 1 ? In boxes 7-13 on your answer sheet, write",
+                  "noblk": 0,
+                  "paragraph": "what is api",
+                  "head":"<p><b>New Zealand and Oxford experiment</b></p>",
+                  "question_type_id": 2,
+                  "category": "Math",
+                  "istable":false,
+                  "solutionVal": "",
+                  "status": 1001,
+                  "options": [
+                      {
+                          "iscircle":true,
+                          "name": "<p>three stages: crows needed to move a &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='32' type='text' id='text_32' name='text32'>&nbsp;in order to reach a short stick; then<BR><BR>use the short stick to reach a long stick; then use the long stick to reach food .</span></p>",
+                          "is_answer": [
+                              "String"
+                          ],
+                          "isReview": false,
+                          "user_ans": ""
+                      }
+                      
+                  ]
+              },
+              {
+                  "name": "3.Do the following statements agree with the information given in Reading Passage 1 ? In boxes 7-13 on your answer sheet, write",
+                  "noblk": 0,
+                  "paragraph": "",
+                  "question_type_id": 2,
+                  "head":"<p><b>Oxford research</b></p>",
+                  "istable":false,
+                  "category": "Math",
+                  "solutionVal": "",
+                  "status": 1001,
+                  "options": [
+                     
+                      {
+                          "iscircle":true,
+                          "name": "<p>crows used sticks to investigate whether there was any  &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='33' type='text' id='text_33' name='text33'> </p>",
+                          "is_answer": [
+                              "Danger"
+                          ],
+                          "isReview": false,
+                          "user_ans": ""
+                      },
+                      {
+                        "iscircle":true,
+                        "name": "<p>Barney used a stick to investigate a snake made of   &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='34' type='text' id='text_34' name='text34'> </p>",
+                        "is_answer": [
+                            "Rubber"
+                        ],
+                        "isReview": false,
+                        "user_ans": ""
+                    },
+                    {
+                        "iscircle":true,
+                        "name": "<p>Pierre used a stick to investigate a   &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='35' type='text' id='text_35' name='text35'> <br><br><span style='margin: 0px 0px 0px -20px;'><span><span><i class='fa fa-circle' aria-hidden='true'></i>&nbsp;</span>used a stick to investigate a metal toad</span><br><br><span style='margin: 0px 0px 0px -20px;'><span><span><i class='fa fa-circle' aria-hidden='true'></i>&nbsp;</span>the crows only used sticks for the first contact</span></p>",
+                        "is_answer": [
+                            "Light"
+                        ],
+                        "isReview": false,
+                        "user_ans": ""
+                    }
+
+                      
+                  ]
+              },
+              {
+                "name": "5.Do the following statements agree with the information given in Reading Passage 1 ? In boxes 7-13 on your answer sheet, write",
+                "noblk": 0,
+                "paragraph": "what is api",
+                "head":"<p><b>Conclusions of above research</b></p>",
+                "question_type_id": 2,
+                "category": "Math",
+                "istable":false,
+                "solutionVal": "",
+                "status": 1001,
+                "options": [
+                    {
+                        "iscircle":true,
+                        "name": "<p><span>ability to plan provides interesting evidence of the birds' cognition .<br><br></span> &nbsp;&nbsp;<span style='margin: 0px 0px 0px -20px;'><span><i class='fa fa-circle' aria-hidden='true'></i>&nbsp;</span></span></span>unclear whether this is evidence of the birds'<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='36' type='text' id='text_36' name='text36'>&nbsp;</span></p>",
+                        "is_answer": [
+                            "Intelligence"
+                        ],
+                        "isReview": false,
+                        "user_ans": ""
+                    }
+                    
+                ]
+            },
+            {
+                "name": "3.Do the following statements agree with the information given in Reading Passage 1 ? In boxes 7-13 on your answer sheet, write",
+                "noblk": 0,
+                "paragraph": "",
+                "question_type_id": 2,
+                "head":"<p><b>Exeter and Oxford research in New Caledonia</b></p>",
+                "istable":false,
+                "category": "Math",
+                "solutionVal": "",
+                "status": 1001,
+                "options": [
+                   
+                    {
+                        "iscircle":true,
+                        "name": "<p>Exeter and Oxford research in New Caledonia  &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='37' type='text' id='text_37' name='text37'> </p>",
+                        "is_answer": [
+                            "Tail(s)"
+                        ],
+                        "isReview": false,
+                        "user_ans": ""
+                    },
+                    {
+                      "iscircle":true,
+                      "name": "<p>for the birds  &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='38' type='text' id='text_38' name='text38'>for the birds</p>",
+                      "is_answer": [
+                          "Energy"
+                      ],
+                      "isReview": false,
+                      "user_ans": ""
+                  },
+                  {
+                      "iscircle":true,
+                      "name": "<p>larvaes specific  &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='39' type='text' id='text_39' name='text39'></p>",
+                      "is_answer": [
+                          "Chemical"
+                      ],
+                      "isReview": false,
+                      "user_ans": ""
+                  },
+                  {
+                    "iscircle":true,
+                    "name": "<p>scientists will analyse what the birds include in their   &nbsp;&nbsp;<input ng-model='options.user_ans' ng-click='typeReviewRemainder(2,$parent.$parent.$index,$parent.$index)'  style='text-align: center;border: none; border-bottom: 1px solid; width: 155px;' placeholder='40' type='text' id='text_40' name='text40'> </p>",
+                    "is_answer": [
+                        "Diet"
+                    ],
+                    "isReview": false,
+                    "user_ans": ""
+                }
+
+                    
+                ]
+            }
+
+          ]
+        } 
+    },
+    "writing": {
+        "totaltime": "60",
+        "part1": {
+            "paragraph": "",
+           
+            "topInst": "You should spend about 20 minutes on this task.",
+            "image":"",
+            "quetions": [
+                {
+                    "head":"<p>Writing Task – 1 </p>",
+                    "name": "1.what is angular2",
+                    "noblk": 0,
+                    "paragraph": "<span>The chart below shows the annual number of rentals and sales (in various formats) of films from a particular store between 2002 and 2011.Summarise the information by selecting and reporting the main features, and make comparision where relevant.</span>",
+                    "question_type_id": 1,
+                    "isReview": false,
+                    "category": "Math",
+                    "noteVal": "ss",
+                    "solutionVal": "",
+                    "status": 1001,
+                    "options": [
+                        {
+                            "is_answer": true,
+                            "user_ans": ""
+                        }
+                    ]
+                },
+                {
+                    "head":"<p>Writing Task – 2 </p>",
+                    "name": "2.what is angular2",
+                    "noblk": 0,
+                    "paragraph": "<span>Some people get into debt by buying things they don’t need and can’t afford.What are the reasons for this behaviour?What action can be taken to prevent people from having this problem?</span>",
+                    "question_type_id": 1,
+                    "category": "Math",
+                    "noteVal": "ss",
+                    "solutionVal": "",
+                    "status": 1001,
+                    "isReview": false,
+                    "options": [
+                        {
+                            "is_answer": true,
+                            "user_ans": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "speaking": {}
+}

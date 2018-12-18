@@ -1,0 +1,85 @@
+<?php 
+
+class Result_model extends CI_Model {
+
+        // public $title;
+        // public $content;
+        // public $date;
+       
+        public function __construct()
+        {
+                // Call the CI_Model constructor
+                parent::__construct();
+        }
+
+     
+        public function new_que($data)
+        {       
+
+                //,$data['quetype'],$data['status'],$data['status']
+               //Predefind function don't think much
+                $this->load->helper('url');
+                 $category1 = $data['category'] ;
+              // $paragraph1 = $data['paragraph'] ;
+                $nameVal = $data['name'] ;
+                $quetype = $data['question_type_id'] ;
+           
+                $status =  $data['status'] ;
+                $noblk = $data['noblk'] ;
+                $options = $data['options'] ;
+                $numbers = range(1, 20);
+                $trackid = mt_rand(100000, 999999) ;
+                   // $sql= "CALL `createQuestion`('$nameVal','$quetype','$status','$trackid','$noblk')" ;
+                $sql= "CALL `createQuestion`(?,?,?,?,?,?)" ;
+                //  Call proccedures 
+                $query = $this->db->query($sql, array($nameVal,$quetype,$status,$trackid,$noblk,$category1,) );
+                //  $query1 = $this->db->query("CALL `GetOptionByTrackid`($trackid)");
+                //  $query2 =$this->db->query("CALL `createOptions`(456,'dfsd',0)");
+                //  $getId=$query1->result_array() ;
+                //  $getIdVal=$getId[0]['id'] ;
+                 foreach($options as $key=>$data){
+                         //$this->commission_one[$row['0']]= $row['1'];
+                        $options[$key]['question_id'] = $trackid ;
+                 }
+                 //Create batch array insert
+                $this->db->insert_batch('tbl_options',$options);
+                //NO error handling assume everything fine
+                //$commission_one=array();
+                return [];
+                //return $getId[0] ;
+
+        }
+        public function question_list()
+        {       
+                //Predefind function don't think much
+                //$this->load->helper('url');
+                //Call proccedures 
+                $query = $this->db->query("CALL `getQuestionsList`()");
+                //NO error handling assume everything fine
+                $commission_one=array();
+                foreach($query->result_array()as $key=>$data){
+                        $data['options'] =  $this->optionById_list($data['trackid']) ;
+                         $commission_one[] = $data ;
+
+                }
+
+              //   $commission_one[1]['options']=1;
+             return $commission_one;
+        }
+
+
+            public function optionById_list($id)
+            {       
+                 $stored_procedure= "CALL GetOptionByTrackid($id)";
+                 $query=@$this->db->query($stored_procedure,array());
+                 $result = $query->result();
+                 $query->next_result(); 
+                 $query->free_result();
+                 
+                 return $result;
+            }
+        
+
+}
+
+?>
